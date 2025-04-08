@@ -4,3 +4,4 @@ python-multipart
 gunicorn
 requests
 Pillow
+python-dotenv
