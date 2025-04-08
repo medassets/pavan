@@ -5,3 +5,4 @@ gunicorn
 requests
 Pillow
 python-dotenv
+jinja2
